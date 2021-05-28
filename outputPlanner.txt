@@ -1,0 +1,3 @@
+Day:          Class:         Assignment:           Due time:
+Sun             Chem                 Lab                1130
+Thu             Math                  Hw                0445
